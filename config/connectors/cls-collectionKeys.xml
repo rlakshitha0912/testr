@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
+        <servicesKeys>
+            <keyDetails collectionKey="abhi_service:query_opr" connectorServiceName="abhi_service:query_opr"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
